@@ -9,6 +9,6 @@ I'm currently focused on working as a software developer, with a specialization 
 ## My Absolute Favorites
 In terms of programming languages, I'm particularly fond of C++ and Python. These languages have been instrumental in my journey of exploring and creating solutions.
 
-Feel free to connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mehrdad-parnian-98268a66) to discuss potential collaborations or simply share insights on the latest tech trends and innovations.
+Feel free to connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrdad-parnian-98268a66) to discuss potential collaborations or simply share insights on the latest tech trends and innovations.
 
 Looking forward to connecting with like-minded professionals and tech enthusiasts! ✨
