@@ -1,5 +1,5 @@
 
-Hey there! 👋, I'm Mehrdad, a passionate learner and an Electrical Engineering graduate.
+Hey there! 👋, I'm Mehrdad, a passionate learner .
 
 ## About Me
 I'm a dedicated professional with a strong foundation in Electrical Engineering. I have a keen interest in exploring new technologies and leveraging them to solve real-life problems. My enthusiasm for learning and working across various technologies and domains drives me to continuously expand my skill set and knowledge base.
