@@ -10,3 +10,5 @@ I'm a dedicated professional with a strong foundation in Electrical Engineering.
 Feel free to connect with me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehrdad-parnian-98268a66) to discuss potential collaborations or simply share insights on the latest tech trends and innovations.
 
 Looking forward to connecting with like-minded professionals and tech enthusiasts! ✨
+
+# I have created repositories specifically for beginners. Feel free to ask me anything if you need assistance. #
