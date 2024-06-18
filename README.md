@@ -11,4 +11,4 @@ Feel free to connect with me on [![linkedin](https://img.shields.io/badge/linked
 
 Looking forward to connecting with like-minded professionals and tech enthusiasts! ✨
 
-I have created repositories specifically for beginners. Feel free to ask me anything if you need assistance. 
+I have created repositories specifically for beginners. Feel free to ask me anything if you need assistance. **
